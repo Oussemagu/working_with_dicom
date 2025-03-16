@@ -22,7 +22,8 @@ You can install the required dependencies using pip:
 ```pip install pydicom numpy pyvista```
 
 ## How to use :
-Installation
+
+## Installation
 
 1. Clone the repository to your local machine:
 ``` git clone https://github.com/Oussemagu/working_with_dicom.git ```
