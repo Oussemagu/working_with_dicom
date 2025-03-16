@@ -24,13 +24,20 @@ pip install pydicom numpy pyvista
 How to Use
 Clone the repository:
 
-bash
+bash```
+## How to use :
+Installation
 
-``
-git clone https://github.com/Oussemagu/working_with_dicom.git
-Place the DICOM files in the series-000001 directory or modify the directory_name variable to match the directory containing your DICOM files.
+1.Clone the repository to your local machine:
+```bash 
+git clone https://github.com/Oussemagu/working_with_dicom.git bash````
 
-Run the script:
+2.Place the DICOM files in the series-000001 directory or modify the directory_name variable to match the directory containing your DICOM files.
+
+3.Install the required dependencies
+```bash   pip install -r requirements.txt bash```
+
+4.Run the script:
 
 # working_with_dicom
 open link where you can find DICOM samples:
