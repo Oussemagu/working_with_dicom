@@ -19,11 +19,8 @@ To run this project, you'll need to install the following dependencies:
 
 You can install the required dependencies using pip:
 
-```bash
-pip install pydicom numpy pyvista```
+```pip install pydicom numpy pyvista```
 
-
-bash```
 `##` How to use :
 Installation
 
